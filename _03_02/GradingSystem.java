@@ -26,7 +26,6 @@ public class GradingSystem {
     // If it's less than 60, return 'F'.
     else
       return 'F';
-    return 'X';
   }
 
   public String retakeMessage(int percentage, boolean allowedToRetake) {

@@ -4,6 +4,7 @@ public class GradingSystem {
 
   public boolean isAPass(int percentage) {
     // Return true if the percentage is higher than or equal to 60.
+    
     // Otherwise return false.
     return false;
   }
